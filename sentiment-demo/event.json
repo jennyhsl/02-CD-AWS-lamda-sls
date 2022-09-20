@@ -12,7 +12,7 @@
     "header2": "value1,value2"
   },
   "queryStringParameters": {
-    "parameter1": "value1,value2",
+    "parameter1": "value1,value2" ,
     "parameter2": "value"
   },
   "requestContext": {
